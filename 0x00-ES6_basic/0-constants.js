@@ -1,4 +1,5 @@
 // 0-constants.js
+" type=module";
 
 export function taskFirst() {
   const option = 'I prefer const when I can.';
